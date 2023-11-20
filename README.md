@@ -19,7 +19,7 @@ The Student Management System is a web application developed using the Flask web
 
 ## Routes and Views:
 
-  **/:** Displays the home page. 
+  **/:** Displays the entire home page. 
 
   **/studentdetails:** Shows student details, including department-wise student counts and total student count.
 
